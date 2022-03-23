@@ -39,6 +39,7 @@ Start is pretty standard.
     - give it a description
     - give it a URL (oddly, this is required but since bots don't actually need it you can put almost any site you own here)
     - give it a use-case description
+    - You will get a Client ID and a Client Secret.  SAVE THEM LIKE THEY WERE ENDANGERED RAPBID MAN-EATING OTTERS.  Seriously, locked away in a safe place.
     
 12)   Create Authentication credentials on the twitter apps page (https://developer.twitter.com/en/apps)
     - Clicking "Details" will get you to the screen you need to create Keys and Tokens.
